@@ -5,6 +5,8 @@ This is an analysis of the Valorant Champions Tour (or VCT) tournament series ov
 player peripherals which was scraped from [prosettings.net](https://prosettings.net/lists/valorant/). After cleaning and merging these datasets properly, they
 were ready for use in Tableau.
 
+The full data viz is on [Tableau Public](https://public.tableau.com/app/profile/ethenh.phouybanhdyt/viz/ValorantVCT2023Presentation/Presentation).
+
 **Project Steps**
 
 * Gather both player data as well as scrape peripheral data
@@ -25,4 +27,4 @@ This project used the following programs:
 * Python packages
     * pandas
     * selenium webdriver
-* Tableau
+* Tableau Public
